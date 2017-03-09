@@ -9,6 +9,7 @@ function PasGen($length) {
 ));
 }
 ololololololo - COMBO
+masterpiece -trololo!!!
 
 $value = $_POST['count_of_symbols'];
 $result = PasGen ($value);
